@@ -1,0 +1,9 @@
+input=images.jpg
+width=28
+height=28
+pixels=784
+invert=False
+threshold=None
+flatten=row-major
+format=one-byte-per-line
+compatible_with=$readmemh
